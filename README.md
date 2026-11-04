@@ -150,5 +150,5 @@ We are evaluating how N3C-pretrained models transfer to **All of Us** and **Vand
 ## Project
 
 - **Research project:** Clinical foundation model for structured clinical data.
-- **Contact:** Humayera Islam, PhD, Pablo Napan, MS, Laila Bekhet, PhD (Laila.rasmy.gindybekhet@uth.tmc.edu). 
+- **Contact:** Humayera Islam, PhD, Pablo Napan, MS ([pablo.napanmolina@uth.tmc.edu](mailto:pablo.napanmolina@uth.tmc.edu)), Laila Bekhet, PhD (Laila.rasmy.gindybekhet@uth.tmc.edu).
 
